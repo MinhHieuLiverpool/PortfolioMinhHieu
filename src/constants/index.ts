@@ -133,7 +133,7 @@ const experiences: TExperience[] = [
     companyName: "Personal Projects",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "2020 – Present",
+    date: "2022 – 2023",
     points: [
       "Xây dựng các dự án cá nhân về AI, game và web.",
       "Liên tục học hỏi công nghệ mới qua GitHub và cộng đồng lập trình viên.",
