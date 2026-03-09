@@ -25,9 +25,6 @@ import {
   meta,
   starbucks,
   githubProject,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
 } from "../assets";
 
