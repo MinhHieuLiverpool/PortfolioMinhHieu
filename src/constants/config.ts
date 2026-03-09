@@ -41,7 +41,7 @@ type TConfig = {
 export const config: TConfig = {
   html: {
     title: "Bùi Quang Minh Hiếu — 3D Portfolio",
-    fullName: "Bùi Quang Minh Hiếu",
+    fullName: "Bùi Quang Minh Hieu",
     email: "thanhhieu16082004@gmail.com",
   },
   hero: {
