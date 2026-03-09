@@ -119,7 +119,7 @@ const experiences: TExperience[] = [
     companyName: "Garena Viet Nam",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "2024 – Present",
+    date: "2025 – Present",
     points: [
       "Vận hành kỹ thuật phát sóng các giải đấu Esports quy mô lớn, đảm bảo chất lượng truyền tải tín hiệu ổn định và liên tục.",
       "Xử lý tín hiệu video/audio và quản lý hạ tầng đường truyền mạng trong môi trường livestream chuyên nghiệp.",
